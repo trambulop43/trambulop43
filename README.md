@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=160&section=header&text=Paul%20Domenic%20P.%20Trambulo&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=Software%20engineer%20%26%20CS%2FIT%20instructor&descSize=18&descAlignY=72" width="100%" alt="Header" />
 
+<img src="https://media.licdn.com/dms/image/v2/C5603AQGIk4tnoS383g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1659507673956?e=1794441600&v=beta&t=cu6c4WU_UDz1rdDHLAFe2oXKDxYBdvO3OueJCJginzs" width="120" height="120" alt="Paul Trambulo" />
+
 ### 🚀 [Visit my portfolio → portfolio.ptrambulo.study](https://portfolio.ptrambulo.study/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
@@ -23,9 +25,28 @@
 
 ## 🧰 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,vscode&theme=dark" alt="Tech stack" />
-</p>
+<table>
+<tr>
+<td><b>💻 Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages" /></td>
+</tr>
+<tr>
+<td><b>🌐 Web</b></td>
+<td><img src="https://skillicons.dev/icons?i=flask,html,css,js&theme=dark" alt="Web" /> &nbsp;<sub>Flask · Jinja2 · full-stack apps</sub></td>
+</tr>
+<tr>
+<td><b>🤖 AI</b></td>
+<td><img src="https://img.shields.io/badge/Hugging_Face-7c3aed?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" /> <img src="https://img.shields.io/badge/Local_LLMs-7c3aed?style=for-the-badge&logo=ollama&logoColor=white" alt="Local LLMs" /> <img src="https://img.shields.io/badge/ComfyUI-7c3aed?style=for-the-badge" alt="ComfyUI" /></td>
+</tr>
+<tr>
+<td><b>🛠️ Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,discord&theme=dark" alt="Tools" /></td>
+</tr>
+<tr>
+<td><b>🎓 Teaching</b></td>
+<td><sub>OOP with Python · Human-Computer Interaction · Intro to AI · Curriculum design · Youth workshops</sub></td>
+</tr>
+</table>
 
 ## ✨ Featured Projects
 
