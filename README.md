@@ -1,93 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00b341&height=200&section=header&text=Paul%20Trambulo&fontSize=50&fontColor=00ff41&fontAlignY=38&desc=IT%20Instructor%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descColor=b6ffcb&descAlignY=60" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=160&section=header&text=Paul%20Domenic%20P.%20Trambulo&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=Software%20engineer%20%26%20CS%2FIT%20instructor&descSize=18&descAlignY=72" width="100%" alt="Header" />
 
-<img src="https://media.licdn.com/dms/image/v2/C5603AQGIk4tnoS383g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1659507673956?e=1794441600&v=beta&t=cu6c4WU_UDz1rdDHLAFe2oXKDxYBdvO3OueJCJginzs" width="120" height="120" alt="Paul Trambulo" />
+### 🚀 [Visit my portfolio → portfolio.ptrambulo.study](https://portfolio.ptrambulo.study/)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=520&lines=%24+teaching+Python+%26+HCI;%24+building+Flask+apps+%26+course+sites;%24+exploring+local+AI+models)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-## `> about`
-
-I'm an **IT Instructor at First Asia Institute of Technology and Humanities**, teaching Object-Oriented Programming with Python, Human-Computer Interaction, and introductory AI. I'm also pursuing an **MSCS in Artificial Intelligence** at National University (PH).
-
-Outside the classroom I build course platforms, desktop apps, and AI tools, and I run beginner workshops on game dev and web design for young learners.
-
-<br/>
-
-## `> stack`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=00ff41)
-![Jinja](https://img.shields.io/badge/Jinja-000000?style=flat-square&logo=jinja&logoColor=00ff41)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00ff41)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00ff41)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=00ff41)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=7c3aed)
 
 </div>
 
-<br/>
+---
 
-## `> featured_work`
+## 👨‍🏫 About
+
+| | |
+|---|---|
+| 🎓 **Teaching** | OOP with Python · Human-Computer Interaction · Intro to AI |
+| 🏫 **Where** | First Asia Institute of Technology and Humanities |
+| 📚 **Studying** | MSCS (Artificial Intelligence), National University (PH) |
+| 🛠️ **Building** | Flask course platforms, desktop apps, local AI tools |
+| 🌐 **Website** | [Software engineer & CS/IT instructor](https://portfolio.ptrambulo.study/) |
+
+## 🧰 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,vscode&theme=dark" alt="Tech stack" />
+</p>
+
+## ✨ Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**📖 Course Platforms**
-Flask sites for CSDF101, HCI101, and Computer Systems Architecture with lessons, labs, and quizzes.
-
-</td>
-<td width="50%" valign="top">
-
-**🎭 PNGtuber App**
-Python desktop app with face tracking, avatar rendering, and a settings GUI.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌳 Trees AI Detection**
-AI detection website developed together with my students.
-
-</td>
-<td width="50%" valign="top">
-
-**🧠 Local AI Helper**
-Self-hosted coding and research assistant powered by open models.
-
-</td>
+<td align="center" width="25%">📖<br/><b>Course Sites</b><br/><sub>CSDF101 · HCI101 · CSAR</sub></td>
+<td align="center" width="25%">🌳<br/><b>Trees AI Detection</b><br/><sub>Built with students</sub></td>
+<td align="center" width="25%">🧠<br/><b>Local AI Helper</b><br/><sub>Open models, self-hosted</sub></td>
+<td align="center" width="25%">🎭<br/><b>PNGtuber App</b><br/><sub>Face tracking in Python</sub></td>
 </tr>
 </table>
 
-<br/>
-
-## `> pinned`
-
-<!-- Replace with your real repo names -->
-- [`csdf101-course-site`](https://github.com/YOUR_USERNAME/csdf101-course-site) · Flask course website with quizzes
-- [`vtuber-desktop-app`](https://github.com/YOUR_USERNAME/vtuber-desktop-app) · Python PNGtuber app
-- [`workshop-slides`](https://github.com/YOUR_USERNAME/workshop-slides) · Slide-deck site for youth workshops
-
-<br/>
-
-## `> connect`
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOUR_HANDLE)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00b341&height=100&section=footer" width="100%" alt="Footer" />
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.ptrambulo.study/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%" alt="Footer" />
+
+</div>
