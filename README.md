@@ -1,82 +1,153 @@
 <div align="center">
 
-<img src="https://portfolio.ptrambulo.study/paul.webp" width="130" height="130" alt="Paul Trambulo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00b341&height=200&section=header&text=Paul%20Trambulo&fontSize=50&fontColor=00ff41&fontAlignY=38&desc=Software%20Engineer%20%7C%20CS%2FIT%20Instructor%20%7C%20AI%20Tools&descSize=16&descColor=b6ffcb&descAlignY=60" width="100%" alt="Header" />
 
-#  Paul Domenic P. Trambulo
+<img src="https://wsrv.nl/?url=portfolio.ptrambulo.study/paul.webp&w=300&h=300&fit=cover&a=attention&output=png" width="130" height="130" alt="Paul Domenic P. Trambulo" />
 
-### Software engineer & CS/IT instructor
+<br/>
 
-**Web systems · AI tools · Teaching machine learning**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=560&lines=%24+building+web+systems+%26+AI+tools;%24+teaching+how+machines+learn;%24+running+communities+of+330K%2B+members)](https://portfolio.ptrambulo.study/)
 
-[![Website](https://img.shields.io/badge/portfolio.ptrambulo.study-18181b?style=for-the-badge&logo=googlechrome&logoColor=f59e0b)](https://portfolio.ptrambulo.study/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181b?style=for-the-badge&logo=linkedin&logoColor=f59e0b)](https://www.linkedin.com/in/paul-trambulo/)
-[![Email](https://img.shields.io/badge/Email-18181b?style=for-the-badge&logo=gmail&logoColor=f59e0b)](mailto:trambulop43@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.ptrambulo.study-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff41)](https://portfolio.ptrambulo.study/)
 
 </div>
 
 <br/>
 
-## ▍About
+## `> about`
 
-I teach data science, ML, deep learning, discrete structures and procedural 3D at **First Asia Institute of Technology and Humanities**, and I run the web platforms behind Discord communities of **330K+** and **180K+** members. Before teaching: ETL at **BPI** and full-stack work at **Digiteer**. Currently on an MS in Computer Science (AI) at National University Manila.
+I'm **Paul Domenic P. Trambulo**, a software engineer and CS/IT instructor based in Tanauan City, Batangas, Philippines. I teach data science, machine learning, deep learning, discrete structures and procedural 3D (Python + Blender) at **First Asia Institute of Technology and Humanities**, and I run the production systems behind Discord communities of **330K+** and **180K+** members.
 
-> 🏆 **Best Thesis 2022**: CNN-VGG16 for Philippine native tree species identification
+Before teaching I worked in ETL and web development (BPI, Digiteer). I'm also pursuing an **MS in Computer Science (AI)** at National University Manila.
+
+🌐 **Website:** [Paul Domenic P. Trambulo: Software engineer & CS/IT instructor](https://portfolio.ptrambulo.study/)
 
 <br/>
 
-## ▍Projects
+## `> stack`
+
+**`languages`**
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=00ff41)
+![C++](https://img.shields.io/badge/C/C++-000000?style=flat-square&logo=cplusplus&logoColor=00ff41)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00ff41)
+![Ruby](https://img.shields.io/badge/Ruby-000000?style=flat-square&logo=ruby&logoColor=00ff41)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00ff41)
+![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=00ff41)
+
+**`web`**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00ff41)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=00ff41)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=00ff41)
+![Rails](https://img.shields.io/badge/Ruby_on_Rails-000000?style=flat-square&logo=rubyonrails&logoColor=00ff41)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00ff41)
+
+**`data & ai`**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00ff41)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=00ff41)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=00ff41)
+![Ollama](https://img.shields.io/badge/Ollama_%2F_Local_LLMs-000000?style=flat-square&logo=ollama&logoColor=00ff41)
+![ML](https://img.shields.io/badge/ML_%26_Deep_Learning_(CNN)-000000?style=flat-square&logo=tensorflow&logoColor=00ff41)
+![ETL](https://img.shields.io/badge/ETL-000000?style=flat-square&logoColor=00ff41)
+
+**`ops`**
+![nginx](https://img.shields.io/badge/nginx-000000?style=flat-square&logo=nginx&logoColor=00ff41)
+![PM2](https://img.shields.io/badge/PM2-000000?style=flat-square&logo=pm2&logoColor=00ff41)
+![Linux](https://img.shields.io/badge/Linux_VPS-000000?style=flat-square&logo=linux&logoColor=00ff41)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00ff41)
+
+**`creative`**
+![Blender](https://img.shields.io/badge/Blender-000000?style=flat-square&logo=blender&logoColor=00ff41)
+![Unity](https://img.shields.io/badge/Unity_3D-000000?style=flat-square&logo=unity&logoColor=00ff41)
+![Procedural](https://img.shields.io/badge/Procedural_Generation-000000?style=flat-square&logoColor=00ff41)
+
+**`ai-assisted workflow`**
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=00ff41)
+![Prompt Design](https://img.shields.io/badge/Prompt_Design-000000?style=flat-square&logoColor=00ff41)
+
+<br/>
+
+## `> featured_work`
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://portfolio.ptrambulo.study/projects/the-camp/"><img src="https://portfolio.ptrambulo.study/shots/camp-dashboard.webp" alt="The Camp StaffHub" /></a>
-<br/><b>The Camp StaffHub</b><br/>
-<sub>Next.js · Prisma · PostgreSQL · live for a 330K+ community</sub>
+
+<a href="https://portfolio.ptrambulo.study/projects/the-camp/"><img src="https://wsrv.nl/?url=portfolio.ptrambulo.study/shots/camp-dashboard.webp&w=800&h=450&fit=cover&a=top&output=png" alt="The Camp StaffHub" /></a>
+
+**The Camp StaffHub**
+Moderation tooling, points-and-XP economy and profile cards for a 330K+ member Discord. Next.js, Prisma, PostgreSQL.
+
 </td>
 <td width="50%" valign="top">
-<a href="https://portfolio.ptrambulo.study/projects/csar-lms/"><img src="https://portfolio.ptrambulo.study/shots/csar-dashboard.webp" alt="CS Portal" /></a>
-<br/><b>CS Portal</b><br/>
-<sub>Flask LMS · quizzes, gradebook, simulators · 60+ students</sub>
+
+<a href="https://portfolio.ptrambulo.study/projects/csar-lms/"><img src="https://wsrv.nl/?url=portfolio.ptrambulo.study/shots/csar-dashboard.webp&w=800&h=450&fit=cover&a=top&output=png" alt="CS Portal" /></a>
+
+**CS Portal**
+Flask LMS with Google sign-in, graded quizzes and simulators. 5 subjects, 60+ students.
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://portfolio.ptrambulo.study/projects/buhay-batangas/"><img src="https://portfolio.ptrambulo.study/shots/roblox-farm.webp" alt="Buhay Batangas" /></a>
-<br/><b>Buhay Batangas</b><br/>
-<sub>Roblox farming game · 80K+ lines of tested Luau</sub>
+
+<a href="https://portfolio.ptrambulo.study/projects/buhay-batangas/"><img src="https://wsrv.nl/?url=portfolio.ptrambulo.study/shots/roblox-farm.webp&w=800&h=450&fit=cover&a=top&output=png" alt="Buhay Batangas" /></a>
+
+**Buhay Batangas**
+Philippine farming game on Roblox: 80K+ lines of tested Luau and a scripted Blender asset pipeline.
+
 </td>
 <td width="50%" valign="top">
-<a href="https://portfolio.ptrambulo.study/projects/blender-3d/"><img src="https://portfolio.ptrambulo.study/shots/blender-crops.webp" alt="Blender pipelines" /></a>
-<br/><b>Blender & 3D Pipelines</b><br/>
-<sub>Python (bpy) → FBX → game manifest</sub>
+
+<a href="https://portfolio.ptrambulo.study/projects/blender-3d/"><img src="https://wsrv.nl/?url=portfolio.ptrambulo.study/shots/blender-crops.webp&w=800&h=450&fit=cover&a=top&output=png" alt="Blender pipelines" /></a>
+
+**Blender & 3D Pipelines**
+Models built from Python scripts and JSON, exported to FBX and wired into the game.
+
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="130" align="center"><img src="https://portfolio.ptrambulo.study/sprites/stills/v2/idle.webp" width="100" alt="Malty" /></td>
-<td><b>M.A.L.T.Y</b>: self-hosted AI harness routing between local and online models, with research and citations, and an animated desktop companion. <a href="https://portfolio.ptrambulo.study/projects/malty/">Read the case study →</a></td>
+<td width="140" align="center" valign="middle">
+<img src="https://wsrv.nl/?url=portfolio.ptrambulo.study/sprites/stills/v2/idle.webp&w=300&h=300&fit=contain&output=png" width="110" alt="Malty" />
+</td>
+<td valign="middle">
+
+**🧠 M.A.L.T.Y**, my self-hosted AI harness. It routes between local and online models, remembers in an Obsidian-style vault, does research with citations, and lives on my desktop as an animated companion named Malty. Python · FastAPI · Ollama. [Case study →](https://portfolio.ptrambulo.study/projects/malty/)
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-## ▍Toolbox
+## `> research`
 
-| | |
-|---|---|
-| **Languages** | ![TS](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=f59e0b) ![JS](https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=f59e0b) ![Py](https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=f59e0b) ![SQL](https://img.shields.io/badge/SQL-18181b?style=flat-square&logo=postgresql&logoColor=f59e0b) ![C++](https://img.shields.io/badge/C/C++-18181b?style=flat-square&logo=cplusplus&logoColor=f59e0b) ![Java](https://img.shields.io/badge/Java-18181b?style=flat-square&logo=openjdk&logoColor=f59e0b) ![Ruby](https://img.shields.io/badge/Ruby-18181b?style=flat-square&logo=ruby&logoColor=f59e0b) ![PHP](https://img.shields.io/badge/PHP-18181b?style=flat-square&logo=php&logoColor=f59e0b) ![C#](https://img.shields.io/badge/C%23-18181b?style=flat-square&logo=csharp&logoColor=f59e0b) |
-| **Web** | ![Next](https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=f59e0b) ![React](https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=f59e0b) ![Tailwind](https://img.shields.io/badge/Tailwind-18181b?style=flat-square&logo=tailwindcss&logoColor=f59e0b) ![Flask](https://img.shields.io/badge/Flask-18181b?style=flat-square&logo=flask&logoColor=f59e0b) ![Rails](https://img.shields.io/badge/Rails-18181b?style=flat-square&logo=rubyonrails&logoColor=f59e0b) ![Node](https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=f59e0b) |
-| **Data & AI** | ![Postgres](https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square&logo=postgresql&logoColor=f59e0b) ![Prisma](https://img.shields.io/badge/Prisma-18181b?style=flat-square&logo=prisma&logoColor=f59e0b) ![SQLite](https://img.shields.io/badge/SQLite-18181b?style=flat-square&logo=sqlite&logoColor=f59e0b) ![Ollama](https://img.shields.io/badge/Ollama-18181b?style=flat-square&logo=ollama&logoColor=f59e0b) ![ML](https://img.shields.io/badge/ML_%26_CNN-18181b?style=flat-square&logo=tensorflow&logoColor=f59e0b) |
-| **Ops** | ![nginx](https://img.shields.io/badge/nginx-18181b?style=flat-square&logo=nginx&logoColor=f59e0b) ![PM2](https://img.shields.io/badge/PM2-18181b?style=flat-square&logo=pm2&logoColor=f59e0b) ![Linux](https://img.shields.io/badge/Linux_VPS-18181b?style=flat-square&logo=linux&logoColor=f59e0b) ![Actions](https://img.shields.io/badge/GitHub_Actions-18181b?style=flat-square&logo=githubactions&logoColor=f59e0b) ![Git](https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=f59e0b) |
-| **Creative** | ![Blender](https://img.shields.io/badge/Blender-18181b?style=flat-square&logo=blender&logoColor=f59e0b) ![Unity](https://img.shields.io/badge/Unity_3D-18181b?style=flat-square&logo=unity&logoColor=f59e0b) |
-| **Workflow** | ![Claude Code](https://img.shields.io/badge/Claude_Code-18181b?style=flat-square&logo=anthropic&logoColor=f59e0b) ![Prompt](https://img.shields.io/badge/Prompt_Design-18181b?style=flat-square&logoColor=f59e0b) |
+**Best Thesis (2022): classifying Philippine tree species from bark images with CNN-VGG16.** I now lead the [Trees AI detection site](https://trees.firstasia.edu.ph) with my students. [Explore the research →](https://portfolio.ptrambulo.study/thesis/)
+
+<p align="center">
+<img src="https://wsrv.nl/?url=portfolio.ptrambulo.study/thesis/samples/acacia.webp&w=400&h=400&fit=cover&output=png" width="180" alt="Acacia bark" />
+<img src="https://wsrv.nl/?url=portfolio.ptrambulo.study/thesis/samples/cocos-nucifera.webp&w=400&h=400&fit=cover&output=png" width="180" alt="Cocos nucifera bark" />
+<img src="https://wsrv.nl/?url=portfolio.ptrambulo.study/thesis/samples/tamarindus-indica.webp&w=400&h=400&fit=cover&output=png" width="180" alt="Tamarindus indica bark" />
+</p>
 
 <br/>
+
+## `> connect`
 
 <div align="center">
 
-**[→ See the full portfolio](https://portfolio.ptrambulo.study/)** · [GitHub](https://github.com/trambulop43) · [Portfolio PDF](https://portfolio.ptrambulo.study/downloads/Paul-Trambulo-Portfolio.pdf)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff41)](https://portfolio.ptrambulo.study/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:trambulop43@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/paul-trambulo/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/trambulop43)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00b341&height=100&section=footer" width="100%" alt="Footer" />
