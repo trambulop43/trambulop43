@@ -1,35 +1,81 @@
-<img src="https://media.licdn.com/dms/image/v2/C5603AQGIk4tnoS383g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1659507673956?e=1794441600&v=beta&t=cu6c4WU_UDz1rdDHLAFe2oXKDxYBdvO3OueJCJginzs" width="110" height="110" align="right" alt="Paul Trambulo" />
+<div align="center">
 
-# Hi, I'm Paul 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=160&section=header&text=Paul%20Domenic%20P.%20Trambulo&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=Software%20engineer%20%26%20CS%2FIT%20instructor&descSize=18&descAlignY=72" width="100%" alt="Header" />
 
-**Software engineer & CS/IT instructor** · [portfolio.ptrambulo.study](https://portfolio.ptrambulo.study/)
+<img src="https://media.licdn.com/dms/image/v2/C5603AQGIk4tnoS383g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1659507673956?e=1794441600&v=beta&t=cu6c4WU_UDz1rdDHLAFe2oXKDxYBdvO3OueJCJginzs" width="120" height="120" alt="Paul Trambulo" />
 
-I teach Python (OOP), Human-Computer Interaction, and intro AI at First Asia Institute of Technology and Humanities, and I build web apps, course platforms, and AI tools on the side.
+### 🚀 [Visit my portfolio → portfolio.ptrambulo.study](https://portfolio.ptrambulo.study/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=7c3aed)
+
+</div>
 
 ---
 
-### What I'm working on
+## 👨‍🏫 About
 
-- 📖 **Course platforms**: Flask sites for CSDF101, HCI101, and Computer Systems Architecture
-- 🌳 **Trees AI detection site**: built with my students
-- 🧠 **Local AI helper**: self-hosted coding and research assistant
-- 🎭 **PNGtuber app**: Python face-tracking desktop app
-- 🎓 Pursuing an **MSCS in Artificial Intelligence** at National University (PH)
-
-### Skills
-
-| Area | What I work with |
+| | |
 |---|---|
-| **Languages** | `Python` `JavaScript` `HTML` `CSS` |
-| **Web** | `Flask` `Jinja2` `Full-stack apps` `Course & staff portals` |
-| **AI** | `Hugging Face models` `Local LLMs` `ComfyUI` `AI detection` |
-| **Tools** | `Git` `VS Code` `Discord community management` |
-| **Teaching** | `OOP with Python` `Human-Computer Interaction` `Intro to AI` `Youth workshops` |
+| 🎓 **Teaching** | OOP with Python · Human-Computer Interaction · Intro to AI |
+| 🏫 **Where** | First Asia Institute of Technology and Humanities |
+| 📚 **Studying** | MSCS (Artificial Intelligence), National University (PH) |
+| 🛠️ **Building** | Flask course platforms, desktop apps, local AI tools |
+| 🌐 **Website** | [Software engineer & CS/IT instructor](https://portfolio.ptrambulo.study/) |
 
-### Find me
+## 🧰 Tech Stack
 
-- 🌐 Website: [Paul Domenic P. Trambulo: Software engineer & CS/IT instructor](https://portfolio.ptrambulo.study/)
-- 💼 LinkedIn: [YOUR_HANDLE](https://linkedin.com/in/YOUR_HANDLE)
-- ✉️ Email: YOUR_EMAIL
+<table>
+<tr>
+<td><b>💻 Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages" /></td>
+</tr>
+<tr>
+<td><b>🌐 Web</b></td>
+<td><img src="https://skillicons.dev/icons?i=flask,html,css,js&theme=dark" alt="Web" /> &nbsp;<sub>Flask · Jinja2 · full-stack apps</sub></td>
+</tr>
+<tr>
+<td><b>🤖 AI</b></td>
+<td><img src="https://img.shields.io/badge/Hugging_Face-7c3aed?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" /> <img src="https://img.shields.io/badge/Local_LLMs-7c3aed?style=for-the-badge&logo=ollama&logoColor=white" alt="Local LLMs" /> <img src="https://img.shields.io/badge/ComfyUI-7c3aed?style=for-the-badge" alt="ComfyUI" /></td>
+</tr>
+<tr>
+<td><b>🛠️ Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,discord&theme=dark" alt="Tools" /></td>
+</tr>
+<tr>
+<td><b>🎓 Teaching</b></td>
+<td><sub>OOP with Python · Human-Computer Interaction · Intro to AI · Curriculum design · Youth workshops</sub></td>
+</tr>
+</table>
 
-<sub>Open to project-based freelance work and full stack roles. Check my [portfolio](https://portfolio.ptrambulo.study/) for details.</sub>
+## ✨ Featured Projects
+
+<table>
+<tr>
+<td align="center" width="25%">📖<br/><b>Course Sites</b><br/><sub>CSDF101 · HCI101 · CSAR</sub></td>
+<td align="center" width="25%">🌳<br/><b>Trees AI Detection</b><br/><sub>Built with students</sub></td>
+<td align="center" width="25%">🧠<br/><b>Local AI Helper</b><br/><sub>Open models, self-hosted</sub></td>
+<td align="center" width="25%">🎭<br/><b>PNGtuber App</b><br/><sub>Face tracking in Python</sub></td>
+</tr>
+</table>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.ptrambulo.study/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%" alt="Footer" />
+
+</div>
